@@ -3,7 +3,6 @@
 This repository contains data and code for the AIM460 Group Project 3.
 
 ## Files in this repo
-- `AIM460_Project3.ipynb`: Jupyter/Colab notebook with all code, models, and analysis.
 - `vehicles_slim_2020plus.csv`: Cleaned Vehicles dataset (2020+).
 
 ## Large dataset
